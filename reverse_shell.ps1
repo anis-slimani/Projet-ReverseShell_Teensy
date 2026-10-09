@@ -1,4 +1,3 @@
-code du script 
 
 #  TLS 1.2
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
